@@ -4,6 +4,11 @@ import json
 import sys
 import time
 
+
+with open("credencias.txt", "r") as arquivo:
+	credenciais = arquivo.read()
+	
+logger = logging.getLogger(credenciais)
 iam = boto3.client('iam')
 
 #Criando uma barra de progresso
