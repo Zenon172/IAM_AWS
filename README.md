@@ -72,4 +72,6 @@ Lincoln Silva de Oliveira
 <h2>🎁 Expressões de gratidão</h2>
 
 Agradeço a oportunidade de participar deste desafio para a <b>Builders!</b>
+
+
 ![image](https://user-images.githubusercontent.com/18291663/171761906-8932110a-292b-42c8-964a-d749a448f60e.png)
